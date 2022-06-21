@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rissom
+- 👋 Hi, I’m Thorsten
 - 👀 I’m interested in solar cells
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on electronic lab notebooks
